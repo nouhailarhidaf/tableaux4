@@ -139,7 +139,7 @@ int main() {
                 break;
 
             default:
-                printf("invalide, veuillez reessayer.\n");
+                printf("Option invalide, veuillez reessayer.\n");
         }
     } while(opt != 7);
 
