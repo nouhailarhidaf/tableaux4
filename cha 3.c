@@ -2,7 +2,7 @@
 int main() {
 int n,s=0;
 int T[50],val,i ;
-    printf("veuillez entrer le nombre des élément de tableau: \n");
+    printf("veuillez entrer le nombre des elements du tableau: \n");
     scanf("%d",&n);
     for ( i=0;i<n;i++){
         printf("veuillez entrer la valeur %d \n",i+1);
